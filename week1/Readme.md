@@ -1,6 +1,6 @@
 ## Week 1: Reading Materials
 
-1. Research papers: https://github.com/zkMonk/zk-bootcamp-2024-resources
+1. Research papers: https://github.com/zkMonk/zk-bootcamp-2024-resources/tree/main/week1/researchPapers
 
 2. Intro to cryptocurrency: https://crypto.preethikasireddy.com/tag/introduction/
 
