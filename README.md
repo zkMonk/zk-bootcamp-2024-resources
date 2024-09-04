@@ -43,5 +43,11 @@
 
    https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627
 
-   https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6  
+   https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6 
+##### 1.3 Start Coding
 
+   https://github.com/iden3/circom_old/blob/master/TUTORIAL.md
+   ##### Tutorials with examples  
+   https://github.com/therealyingtong/roll_up_circom_tutorial
+
+   https://github.com/LuozhuZhang/zkps-circuit-snark 
