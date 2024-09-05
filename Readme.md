@@ -3,7 +3,7 @@
 
 ### Week 1: [Money and Decentralization & Introduction to Web3 and Blockchain](https://github.com/zkMonk/zk-bootcamp-2024-resources/tree/main/week1)
 
-### Week 2: Cryptography
+### Week 2: [Cryptography](https://github.com/zkMonk/zk-bootcamp-2024-resources/tree/main/week2)
 
 ### Week 3: ZK Architecture
 
