@@ -36,6 +36,9 @@
 ##### 1.1 Pre-requisites
    https://mirror.xyz/krinza.eth/5_Cr91cBK3XdkeHPQ9yjc7z_4NoTNxyqBiM4Jz4d5VE
    https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
+   
+   **Basic Foundation Algebra**
+   https://0xparc.notion.site/Prerequisite-understanding-questions-c5ebb77a5cc049f39577ec9a7fb7b22c 
 ##### 1.2 What are (zk)SNARKS
    https://consensys.io/blog/introduction-to-zk-snarks
 
