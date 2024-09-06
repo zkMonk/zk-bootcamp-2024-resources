@@ -29,6 +29,15 @@
 
    if you prefer watching YouTube video https://youtu.be/-1GB6m39-rM?si=TQw4Ct-f8rt8k1ye
 
+
+#### 2. Solidity by Examples
+
+   Learn solidity by example: https://solidity-by-example.org/
+
+   Explore openzepplin wizard to create ERC20,ERC721,ERC1155 : https://wizard.openzeppelin.com/
+
+   [Create ERC20 token and a solidity vendor contract](https://stermi.medium.com/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-8882808dd905)
+
 ### Circom Programming
 
 #### 1. Circom Starter
